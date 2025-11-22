@@ -3,6 +3,8 @@ Random Color Palette Generator
 This is a small React app I built to quickly generate random color palettes.
 It’s simple, fast, and honestly pretty fun to use.
 
+Live Demo: (https://palettezorogenerator.netlify.app/)
+
 What it does
 
 Creates a fresh set of random colors
