@@ -1,0 +1,23 @@
+.element{
+    height:17rem;
+    width: 12rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    background-color: white;
+    border-radius: .2rem;
+    cursor: pointer;
+}
+
+.color{
+    height: 14rem;
+    width: 11rem;
+    background-color: yellow;
+    border-radius: .2rem;
+}
+
+.code{
+    background-color: white;
+}
